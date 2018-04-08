@@ -1,4 +1,4 @@
-# Laradock's PHP-FPM Base Image
+# Laradock's PHP-CLI Base Image
 
 [Contribution Guide](http://laradock.io/contributing/#edit-base-image).
 
